@@ -10,7 +10,7 @@ htmlwidgets: true
 authors:
   - name: Anonymous
 
-bibliography: 2026-04-27-ai-consciousness-ethics.bib
+bibliography: 2026-04-27-a-human-centric-framework-for-debating-the-ethics-of-ai-consciousness-under-uncertainty.bib
 
 toc:
   - name: Abstract
